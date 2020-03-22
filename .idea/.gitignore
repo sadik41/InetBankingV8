@@ -1,0 +1,14 @@
+# Default ignored files
+/workspace.xml
+
+
+
+/.gitignore
+/description.html
+/encodings.xml
+/../InteliljDemo.iml
+/misc.xml
+/modules.xml
+/project-template.xml
+/vcs.xml
+/../src/org/launchcode/Main.java
